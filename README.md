@@ -4,7 +4,4 @@ Assignment repository for UNT CSCE1015
 trf0090
 ## Favorite Food
 Fried Chicken
-## EUID
-trf0090
-## Favorite Food
-Fried Chicken
+
